@@ -1,0 +1,15 @@
+Correlation Coefficient Matrix with Hierarchical cluster
+
+This python script is for visualitaton of variables relation (eg: elemental data)
+In general spread sheet corrilation coefficent Matrix (Pearson) would be generated and the element having mutual corelatabality / visaversa are not to clustered.
+In the present script Pearson's Correlation Coefficient Matrix would be generated and automatically  corelatabality / visaversa are clustered along with that Hierarchical 
+clustering (Complete linkage dendrograms based on euclidean distance ) will also be generated. 
+
+In addition, chatterjee correlation coefficient Matix (non linear correlation coefficient)  along with Hierarchical clustering will also be generated. This would be helpful 
+in better visualising/understanding the data. out pult file will also be auto saved as CCC.png/CCCH.png/PCC.png/PCCH.png in your system
+
+Note: Script is written in Python 3.10
+
+Script written by
+
+Madhusudhan D G
